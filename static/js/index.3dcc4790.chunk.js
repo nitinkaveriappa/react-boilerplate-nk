@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-boilerplate-nk"]=this["webpackJsonpreact-boilerplate-nk"]||[]).push([[0],{59:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),l=function(){return r.a.createElement(r.a.Fragment,null,"React Boilerplate Nk")};t.default=l}}]);
+//# sourceMappingURL=index.3dcc4790.chunk.js.map
